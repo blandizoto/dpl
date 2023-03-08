@@ -2,5 +2,5 @@
 
 | Name | City | Language |
 |:------|:------:|----------:|
-| Zoek | s'Gravenhague | Nederlands |
+| Zoek | s'Gravenhage | Nederlands |
 | `Tonny` | `Dordrecht` | `Nederlands` |
